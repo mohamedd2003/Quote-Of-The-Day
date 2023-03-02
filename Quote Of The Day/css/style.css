@@ -1,0 +1,23 @@
+h1
+{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h5{
+    font-family: 'Pacifico', cursive;
+}
+.home{
+    background-color: #61876E;
+    height: auto;
+}
+body{
+  background-color: #3C6255;
+}
+.title{
+    color: #EAE7B1;
+}
+
+#quote{
+    font-family: 'PT Serif', serif;
+    font-weight: 600;
+}
